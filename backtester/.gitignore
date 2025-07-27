@@ -1,0 +1,13 @@
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Ignore venv
+venv/
+
+# VSCode settings (optional)
+.vscode/
+
+*/test_data/
+data/test_data/
